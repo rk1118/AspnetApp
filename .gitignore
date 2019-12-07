@@ -1,0 +1,5 @@
+FirstJenkinApp/bin/**
+FirstJenkinApp/obj/**
+FirstJenkinApp/wwwroot/**/**
+.vs/**
+FirstJenkinApp/.vs/**
